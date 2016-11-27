@@ -22,5 +22,3 @@ Alfred V. Aho, Brian W. Kernighan & Peter J. Weinberger
 倒数第二章，作者利用AWK实现了三种排序算法和两种图遍历算法，对于大多数读者而言，可能这一章的内容会显得更加亲切一些。
 
 最后一章，作者介绍了AWK从最初的版本到书中介绍的版本之间的发展历程，简单说来就是，作者们最初也没想到AWK还可以做这么多事情（比如写关系型数据库和编译器）。在这一章中，作者介绍了一下AWK中function定义里那个诡异的local variable的声明方式的设计由来。
-
-![The AWK Programming Language](https://github.com/M-Mono/The-AWK-Programming-Language/raw/master/Title.jpg)

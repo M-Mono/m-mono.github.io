@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我的前半生
+title: 我的前半生 · 溥仪
 cover: cover_The-First-Half-of-My-Life.jpg
 date:   2016-11-25 12:00:00
 categories: posts
