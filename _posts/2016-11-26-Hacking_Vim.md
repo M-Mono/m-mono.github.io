@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 深入 Vim · Kim Schulz
-cover: cover_hacking_vim.jpg
+title: 深入Vim · Kim Schulz
+cover: cover_hacking_vim.png
 date:   2016-1-1 12:00:00
 categories: posts
 ---
 
-## Hacking Vim
+## Hacking Vim 7.2
 Kim Schulz
 
 主页：[Hacking Vim](https://github.com/M-Mono/Hacking_Vim) / PDF: [A4 版](https://github.com/M-Mono/Hacking_Vim/raw/master/Hacking%20Vim%20(A4).pdf) / Fork: [wuzhouhui](https://github.com/wuzhouhui/hacking_vim)
