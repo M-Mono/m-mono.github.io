@@ -8,7 +8,7 @@ categories: posts
 
 ## 爱新觉罗 · 溥仪
 
-主页：[我的前半生](https://github.com/M-Mono/The-First-Half-of-My-Life) / PDF: [Kindle 版](https://github.com/M-Mono/The-First-Half-of-My-Life/raw/master/我的前半生%20·%20溥仪%20(Kindle).pdf)，[iPhone 版](https://github.com/M-Mono/The-First-Half-of-My-Life/raw/master/我的前半生%20·%20溥仪%20(iPhone).pdf)，[A4 版](https://github.com/M-Mono/The-First-Half-of-My-Life/raw/master/我的前半生%20·%20溥仪%20(A4).pdf)
+主页：[我的前半生](https://github.com/M-Mono/The-First-Half-of-My-Life) / PDF: [Kindle 版](https://github.com/M-Mono/The-First-Half-of-My-Life/raw/master/我的前半生%20·%20溥仪%20(Kindle).pdf)，[iPhone 版](https://github.com/M-Mono/The-First-Half-of-My-Life/raw/master/我的前半生%20·%20溥仪%20(iPhone).pdf)，[A4 版](https://github.com/M-Mono/The-First-Half-of-My-Life/raw/master/我的前半生%20·%20溥仪%20(A4).pdf)，[夜读黑版](https://github.com/M-Mono/The-First-Half-of-My-Life/raw/master/我的前半生%20·%20溥仪%20(Black).pdf)
 
 本书记载的是从宣统元年到民国十三年爱新觉罗·溥仪这一时期的章节，涉及清朝历史的部分。
 
