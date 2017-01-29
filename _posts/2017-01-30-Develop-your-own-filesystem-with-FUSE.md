@@ -1,3 +1,4 @@
+---
 layout: post
 title: 使用 FUSE 开发自己的文件系统
 cover: cover_Develop-your-own-filesystem-with-FUSE.jpg
@@ -6,7 +7,9 @@ categories: posts
 ---
 ## 使用 FUSE 开发自己的文件系统
 
----
+主页：[使用 FUSE 开发自己的文件系统](https://github.com/M-Mono/UserSpace-FileSystem-Based-on-FUSE) / PDF: [A4 版](https://github.com/M-Mono/UserSpace-FileSystem-Based-on-FUSE/raw/master/使用%20FUSE%20开发自己的文件系统(A4).pdf) / Fork: [wuzhouhui](https://github.com/wuzhouhui/fs_on_fuse)
+
+
 使用用户空间的文件系统（FUSE），您无需理解文件系统的内幕，也不用学习内核模块编程的知识，就可以开发用户空间的文件系统框架。本文是一篇简单的逐步介绍的指南，内容包括安装、定制和启用 FUSE 和 AFS，这样您就可以在 Linux® 的用户空间中创建自己的功能完备的文件系统了。
 
 使用 FUSE 您可以开发功能完备的文件系统：其具有简单的 API 库，可以被非特权用户访问，并可以安全的实施。更重要的是，FUSE 以往的表现充分证明了其稳定性。
