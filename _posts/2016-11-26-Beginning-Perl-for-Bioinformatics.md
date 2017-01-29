@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 生物信息学 Perl 语言入门 · James D. Tisdall
+title: 生物信息学 Perl 语言入门
 cover: cover_Beginning-Perl-for-Bioinformatics.png
 date:   2017-1-27 12:00:00
 categories: posts

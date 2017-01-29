@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 深入Vim · Kim Schulz
+title: 深入Vim
 cover: cover_hacking_vim.png
 date:   2017-01-29 12:00:00
 categories: posts

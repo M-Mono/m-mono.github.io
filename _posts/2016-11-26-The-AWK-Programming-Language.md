@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWK程序设计语言 · Aho 等
+title: AWK程序设计语言
 cover: cover_The-AWK-Programming-Language.jpg
 date:   2017-01-29 12:00:00
 categories: posts
