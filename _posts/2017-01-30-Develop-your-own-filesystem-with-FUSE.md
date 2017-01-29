@@ -31,4 +31,4 @@ categories: posts
 
 要在 FUSE 中创建一个文件系统，您需要安装一个 FUSE 内核模块，然后使用 FUSE 库和 API 来创建自己的文件系统。
 
-![使用 FUSE 开发自己的文件系统](https://github.com/M-Mono/UserSpace-FileSystem-Based-on-FUSE/blob/master/Images/FUSE_structure.svg.png)
+![使用 FUSE 开发自己的文件系统](https://github.com/M-Mono/UserSpace-FileSystem-Based-on-FUSE/raw/master/Images/FUSE_structure.svg.png)
