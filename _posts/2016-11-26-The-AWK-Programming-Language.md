@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWK 程序设计语言
-cover: cover_The-AWK-Programming-Language.jpg
+cover: cover_The-AWK-Programming-Language_1.jpg
 date:   2017-01-29 12:00:00
 categories: posts
 ---
@@ -22,3 +22,5 @@ Alfred V. Aho, Brian W. Kernighan and Peter J. Weinberger
 倒数第二章，作者利用AWK实现了三种排序算法和两种图遍历算法，对于大多数读者而言，可能这一章的内容会显得更加亲切一些。
 
 最后一章，作者介绍了 AWK 从最初的版本到书中介绍的版本之间的发展历程，简单说来就是，作者们最初也没想到 AWK 还可以做这么多事情（比如写关系型数据库和编译器）。在这一章中，作者介绍了一下 AWK 中 Function 定义里那个诡异的 Local Variable 的声明方式的设计由来。
+
+![我的前半生 · 溥仪](https://m-mono.github.io/images/cover_The-AWK-Programming-Language_2.jpg)
