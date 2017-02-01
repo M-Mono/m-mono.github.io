@@ -5,8 +5,6 @@ cover: cover_hacking_vim.png
 date:   2017-01-29 12:00:00
 categories: posts
 ---
-
-## Hacking Vim 7.2
 Kim Schulz
 
 主页：[深入Vim](https://github.com/M-Mono/Hacking_Vim) / PDF: [A4 版](https://github.com/M-Mono/Hacking_Vim/raw/master/Hacking%20Vim%20(A4).pdf) / Fork: [wuzhouhui](https://github.com/wuzhouhui/hacking_vim)

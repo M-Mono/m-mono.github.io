@@ -5,9 +5,7 @@ cover: cover_The-AWK-Programming-Language_1.jpg
 date:   2017-01-29 12:00:00
 categories: posts
 ---
-
-## The AWK Programming Language
-Alfred V. Aho, Brian W. Kernighan and Peter J. Weinberger
+##Alfred V. Aho, Brian W. Kernighan and Peter J. Weinberger
 
 主页：[AWK 程序设计语言](https://github.com/M-Mono/The-AWK-Programming-Language) / PDF：[A4 版](https://github.com/M-Mono/The-AWK-Programming-Language/raw/master/The%20AWK%20Programming%20Language%20(A4).pdf) / Fork: [wuzhouhui](https://github.com/wuzhouhui/awk)
 

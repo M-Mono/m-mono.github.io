@@ -5,9 +5,7 @@ cover: cover_Beginning-Perl-for-Bioinformatics.png
 date:   2017-1-27 12:00:00
 categories: posts
 ---
-
-## Beginning Perl for Bioinformatics
-James D. Tisdall
+##James D. Tisdall
 
 主页：[生物信息学 Perl 语言入门](https://github.com/M-Mono/Beginning-Perl-for-Bioinformatics) / PDF: [A4 版](https://github.com/M-Mono/Beginning-Perl-for-Bioinformatics/raw/master/Beginning%20Perl%20for%20Bioinformatics%20(A4).pdf) / Fork: [Yixf-Education](https://github.com/Yixf-Education/BP4B)
 

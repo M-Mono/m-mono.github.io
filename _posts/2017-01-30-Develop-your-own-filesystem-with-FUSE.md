@@ -5,8 +5,6 @@ cover: cover_Develop-your-own-filesystem-with-FUSE.jpg
 date:   2017-01-30 12:00:00
 categories: posts
 ---
-## 使用 FUSE 开发自己的文件系统
-
 主页：[使用 FUSE 开发自己的文件系统](https://github.com/M-Mono/UserSpace-FileSystem-Based-on-FUSE) / PDF: [A4 版](https://github.com/M-Mono/UserSpace-FileSystem-Based-on-FUSE/raw/master/使用%20FUSE%20开发自己的文件系统(A4).pdf) / Fork: [wuzhouhui](https://github.com/wuzhouhui/fs_on_fuse)
 
 
