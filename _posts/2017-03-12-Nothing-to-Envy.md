@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Nothing to Envy - 我们最幸福
-cover: Cover_1942.jpg
+title: 我们最幸福
+cover: Cover_Nothing-to-Envy.jpg
 date:   2017-02-08 12:00:00
 categories: posts
 ---
@@ -21,4 +21,4 @@ categories: posts
 
 
 
-![我们最幸福 · Barbara Demick](https://github.com/M-Mono/m-mono.github.io/raw/master/images/Frontmatter_Nothing-to-Envy)
+![我们最幸福 · Barbara Demick](https://github.com/M-Mono/m-mono.github.io/raw/master/images/Frontmatter_Nothing-to-Envy.jpg)
