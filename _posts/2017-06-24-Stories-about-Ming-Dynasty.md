@@ -2,12 +2,12 @@
 layout: post
 title:  明朝那些事儿
 cover: Cover_Stories-about-Ming-Dynasty.jpg
-date:   2017-02-08 12:00:00
+date:   2017-06-25 12:00:00
 categories: posts
 ---
 ##当年明月
 
-主页：[明朝那些事儿 - 当年明月](https://github.com/M-Mono/Stories-about-Ming-Dynasty) / PDF: [Kindle 版](https://github.com/M-Mono/Stories-about-Ming-Dynasty/raw/master/我们最幸福%20·%20Barbara%20Demick%20(Kindle).pdf)，[A4 版](https://github.com/M-Mono/Stories-about-Ming-Dynasty/raw/master/我们最幸福%20·%20Barbara%20Demick%20(A4).pdf)
+主页：[明朝那些事儿 - 当年明月](https://github.com/M-Mono/Stories-about-Ming-Dynasty) / PDF: [Kindle 版](https://github.com/M-Mono/Stories-about-Ming-Dynasty/blob/master/明朝那些事儿%20·%20当年明月%20(Kindle).pdf)，[A4 版](https://github.com/M-Mono/Stories-about-Ming-Dynasty/blob/master/明朝那些事儿%20·%20当年明月%20(A4).pdf)
 
 
 
